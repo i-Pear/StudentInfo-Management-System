@@ -1,0 +1,24 @@
+15 
+1808 liu math 1 100 
+1808 wang math 2 100 
+1808 liu chinese 3 100 
+1806 liu cccc 4 0 
+1806 liu eng 5 90 
+1806 wang cccc 6 0 
+1806 wang eng 7 70 
+1804 sui java 8 60 
+1804 sui vb 9 0 
+1804 yuecj java 10 95 
+1804 yuecj vb 11 0 
+1801 a sql 12 100 
+1801 a r 13 0 
+1801 b sql 14 60 
+1801 b r 15 0 
+7 
+1 Zhang 0 han 19 Shandong 
+2 liu 0 han 18 shenyang 
+3 wang 1 man 20 beijing 
+4 sui 1 han 18 jiangsu 
+5 yuecj 1 man 22 shandong 
+6 a 1 han 18 aaaa 
+7 b 1 han 19 bbbbbb 

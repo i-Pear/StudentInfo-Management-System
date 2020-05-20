@@ -1,0 +1,62 @@
+50 
+1808 liu math 1 10 
+1808 wang math 2 100 
+1808 liu chinese 3 1010 
+1806 liu cccc 4 1 
+1806 liu eng 5 1 
+1806 wang cccc 6 1 
+1806 wang eng 7 1 
+1804 sui java 8 90 
+1804 sui vb 9 1 
+1804 yuecj java 10 100 
+1804 yuecj vb 11 1 
+1801 a sql 12 1 
+1801 a r 13 1 
+1801 b sql 14 1 
+1801 b r 15 1 
+1809 jia English 16 1 
+1809 jia Math 17 11 
+1809 jia Physic 18 1 
+1809 jia PE 19 1 
+1809 jia Chinese 20 1 
+1809 yi English 21 1 
+1809 yi Math 22 1 
+1809 yi Physic 23 1 
+1809 yi PE 24 1 
+1809 yi Chinese 25 1 
+1809 bing English 26 1 
+1809 bing Math 27 1 
+1809 bing Physic 28 1 
+1809 bing PE 29 1 
+1809 bing Chinese 30 1 
+1809 ding English 31 1 
+1809 ding Math 32 1 
+1809 ding Physic 33 1 
+1809 ding PE 34 1 
+1809 ding Chinese 35 1 
+1809 wu English 36 307163591 
+1809 wu Math 37 1 
+1809 wu Physic 38 1 
+1809 wu PE 39 1 
+1809 wu Chinese 40 1 
+1809 yi English 41 1 
+1809 yi Math 42 1 
+1809 yi Physic 43 1 
+1809 yi PE 44 11 
+1809 yi Chinese 45 1 
+1809 geng English 46 1 
+1809 geng Math 47 1 
+1809 geng Physic 48 1 
+1809 geng PE 49 1 
+1809 geng Chinese 50 1 
+10 
+1 Zhang 0 han 19 Shandong 
+2 liu 0 han 18 shenyang 
+3 wang 1 man 20 beijing 
+4 sui 1 han 18 jiangsu 
+5 yuecj 1 man 22 shandong 
+6 a 1 han 18 aaaa 
+7 b 1 han 19 bbbbbb 
+8 1 1 1 1 1 
+9 jia 0 han 18 Beijing 
+10 yi 1 han 19 Shenyang 
